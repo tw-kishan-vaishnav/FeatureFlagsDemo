@@ -1,5 +1,7 @@
 # How to use Azure App Configuration with Feature Management in ASP.NET Core
 
+Full article on [Implement Feature flags in dotnet in 5 mins](https://vkishan.hashnode.dev/implement-feature-flags-in-dotnet-in-5-mins)
+
 ```
 using Microsoft.Extensions.Configuration.AzureAppConfiguration;
 using Microsoft.FeatureManagement;
